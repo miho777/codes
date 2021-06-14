@@ -5,4 +5,4 @@ Google Colaboratory ‚ÅAƒ[ƒJƒ‹ƒŠƒ|ƒWƒgƒŠ\Lab14\Piper_ML_MNIST_Keras_c.ipynb‚ğƒ
 iƒtƒ@ƒCƒ‹ƒƒjƒ…[‚©‚çƒm[ƒgƒuƒbƒNƒAƒbƒvƒ[ƒhj
 
 ‰º‹LURL‚ğChrome‚ÅŠJ‚­‚±‚Æ‚Å‚àŠJn‚Å‚«‚Ü‚·B
-https://colab.research.google.com/github/miho777/Storage_GURU/blob/master/Piper_ML_MNIST_Keras_c.ipynb
+https://colab.research.google.com/github/piperjapan/codes/blob/master/Lab14/Piper_ML_MNIST_Keras_c.ipynb
